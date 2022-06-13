@@ -1,0 +1,63 @@
+.common{
+    text-align: center;
+    position: static;
+    font-size:20px;
+}
+
+.header{
+    text-align: center;
+}
+
+
+.navigation{
+    height: 60px;
+    background-color: paleturquoise;
+    line-height: 70px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+
+.navigation1{
+    font-size: 10px;
+    float: right;
+}
+
+.tableau{
+    background-color:whitesmoke;
+    text-align: center;
+    width: 50%;
+    height: 50%;
+    padding: 67px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    resize: horizontal;
+    margin:auto
+}
+
+.subheading{
+    font-size: 20px;
+    text-align: center;
+}
+
+
+
+a{
+    color: black;
+    border: 5px;
+    text-align:center;
+    text-decoration: none;
+}
+
+a:hover{
+    color: grey;
+    font-size: 15px;
+}
+
+.footer{
+    height:60px;
+    background-color: black;
+    color:white;
+    line-height: 60px;
+    text-align:center;
+}
